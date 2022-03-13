@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;500;600;700;800&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+/* Special Price section Template */
+#products_box .grid .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1rem;
+}
+
+#profile img {
+  top: -1.8px;
+}
+#profile ul {
+  list-style: none;
+}
+#profile ul li a {
+  color: rgba(0, 0, 0, 0.514);
+}
+#profile ul li ul {
+  position: absolute;
+  top: 40px;
+  right: 1px;
+  white-space: nowrap;
+  background: white;
+  width: auto;
+  z-index: 11;
+  padding: 20px 50px 20px 50px;
+  background: rgb(227, 233, 230);
+  color: white;
+  border-radius: 5px;
+}
+
+.cart-heading {
+  margin-top: 20px;
+  background-color: rgb(255, 0, 0);
+  text-align: left;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
+.table {
+  background-color: rgb(233, 203, 203);
+  border-radius: 5px;
+}
+.portal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: greenyellow;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 45px;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */ ;
